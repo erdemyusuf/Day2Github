@@ -53,6 +53,7 @@ buradan gonderiyorum locale bu notu
 
         System.out.println("Github ogreniyorum");
         System.out.println("yusuf branch calismasi");
+
     }
 
 }
