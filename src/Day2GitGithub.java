@@ -40,7 +40,7 @@ git push -u origin master
  
  Not: Github ogreniyorum
 
-
+Not: Git locale github remote
      */
     public static void main(String[] args) {
         System.out.println("Github ogreniyorum");
