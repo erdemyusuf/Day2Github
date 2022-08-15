@@ -37,6 +37,8 @@ git remote add origin https://github.com/techproed2020/Git_...
 git push -u origin master
 
  Not: git log --oneline----> commitlerimdeki yani versiyonlarımdaki durumu gosterir.
+ 
+ Not: Github ogreniyorum
 
 
      */
