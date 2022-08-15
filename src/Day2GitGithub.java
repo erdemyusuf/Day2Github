@@ -41,6 +41,9 @@ git push -u origin master
  Not: Github ogreniyorum
 
 Not: Git locale github remote
+
+
+ONEMLİ:working space staging area  commit store
      */
     public static void main(String[] args) {
         System.out.println("Github ogreniyorum");
