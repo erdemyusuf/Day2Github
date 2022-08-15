@@ -50,7 +50,9 @@ ONEMLİ:working space staging area  commit store
 buradan gonderiyorum locale bu notu
      */
     public static void main(String[] args) {
+
         System.out.println("Github ogreniyorum");
+        System.out.println("yusuf branch calismasi");
     }
 
 }
