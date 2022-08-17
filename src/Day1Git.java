@@ -7,5 +7,7 @@ public class Day1Git {
         System.out.println("Hello Git 4. Deneme");
         System.out.println("hellooooo");
         System.out.println("hellooooo");
+        System.out.println("githubtan intellij e");
+        
     }
 }
